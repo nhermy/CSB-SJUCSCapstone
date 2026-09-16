@@ -63,25 +63,6 @@ Applied to the **2022 FIFA World Cup Final**, the model produced a frame-by-fram
 
 This project uses [StatsBomb 360](https://statsbomb.com/) tracking data, which is subject to StatsBomb's own licensing terms. Raw tracking data is **not included** in this repository — see StatsBomb's data access program if you want to reproduce results.
 
-## Running It
-
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Train the model
-python train.py
-
-# Run tactical analysis on a match
-python analyze.py --match <match_id>
-```
-
-*(Update commands to match your actual scripts.)*
-
 ## Future Directions
 
 - Move from post-match analysis toward real-time tactical feedback
@@ -94,4 +75,4 @@ python analyze.py --match <match_id>
 **Noah Hermanson** — M.S. Applied Data Science, Clarkson University
 [LinkedIn](https://linkedin.com/in/noah-hermanson)
 
-Full write-up with methodology, figures, and references available in [`/paper`](./paper).
+Full write-up with methodology, figures, and references available in [`/paper`](./SOFTv4).

@@ -75,4 +75,4 @@ This project uses [StatsBomb 360](https://statsbomb.com/) tracking data, which i
 **Noah Hermanson** — M.S. Applied Data Science, Clarkson University
 [LinkedIn](https://linkedin.com/in/noah-hermanson)
 
-Full write-up with methodology, figures, and references available in [`/paper`](./SOFTv4).
+Full write-up with methodology, figures, and references available in [`/paper`](./SOFTv4.pdf).
